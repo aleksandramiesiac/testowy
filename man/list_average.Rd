@@ -7,16 +7,13 @@
 list_average(x)
 }
 \arguments{
-\item{txt}{\code{character} vector}
+\item{x}{\code{character} vector}
 }
 \description{
 List average function
 }
 \details{
 More informations.
-}
-\examples{
-
 }
 \seealso{
 \code{\link[base]{cat}}
